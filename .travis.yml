@@ -1,0 +1,3 @@
+language: c
+install: ./build.sh
+script: ./run.sh

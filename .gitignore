@@ -1,0 +1,7 @@
+*.pyc
+*.o
+python2
+python2_env
+python2_src
+python2_annotations.tsv
+_configtest.f
